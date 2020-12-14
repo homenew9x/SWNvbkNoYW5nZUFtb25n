@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Icon",
+        "image": "icon_player_",
+        "number": 75,
+        "color":[]
+    },
+    {
+        "name": "Frame",
+        "image": "icon_frame_",
+        "number": 17,
+        "color":[]
+    },
+    {
+        "name": "Background",
+        "image": "icon_color",
+        "number": 0,
+        "color": [
+            {
+                "color1":"",
+                "color2":"FFFFFF"
+            },
+            {
+                "color1":"",
+                "color2":"000000"
+            },
+            {
+                "color1":"",
+                "color2":"3897F1"
+            },
+            {
+                "color1":"",
+                "color2":"70C04F"
+            },
+            {
+                "color1":"",
+                "color2":"FDCB5C"
+            },
+            {
+                "color1":"",
+                "color2":"FC8D33"
+            },
+            {
+                "color1":"",
+                "color2":"EE4957"
+            },
+            {
+                "color1":"",
+                "color2":"D1076A"
+            },
+            {
+                "color1":"",
+                "color2":"A207BA"
+            },
+            {
+                "color1":"",
+                "color2":"ED0014"
+            },
+            {
+                "color1":"",
+                "color2":"ED858E"
+            },
+            {
+                "color1":"",
+                "color2":"FFD3D4"
+            },
+            {
+                "color1":"",
+                "color2":"FEDBB3"
+            },
+            {
+                "color1":"",
+                "color2":"FFC482"
+            },
+            {
+                "color1":"",
+                "color2":"D29046"
+            },
+            {
+                "color1":"",
+                "color2":"99643A"
+            },
+            {
+                "color1":"",
+                "color2":"432324"
+            },
+            {
+                "color1":"",
+                "color2":"1C4928"
+            },
+            {
+                "color1":"FFE86F",
+                "color2":"C21386"
+            },
+            {
+                "color1":"FF6FD8",
+                "color2":"3813C2"
+            },
+            {
+                "color1":"79F1A4",
+                "color2":"0884CA"
+            },
+            {
+                "color1":"FFA8B9",
+                "color2":"D21E1E"
+            },
+            {
+                "color1":"FCCF31",
+                "color2":"F55555"
+            },
+            {
+                "color1":"FDCB5C",
+                "color2":"ED0014"
+            },
+            {
+                "color1":"FFF6B7",
+                "color2":"F6416C"
+            },
+            {
+                "color1":"52E5E7",
+                "color2":"130CB7"
+            },
+            {
+                "color1":"F0FF00",
+                "color2":"58CFFB"
+            }
+        ]
+    }
+]
